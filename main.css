@@ -1,0 +1,74 @@
+.body {
+    background-color: azure;
+}
+.header {
+    text-align: center;
+}
+.text {
+    text-align: center;
+}
+#image {
+    text-align: center;
+}
+.section {
+    text-align: center;
+}
+.footer {
+    text-align: center;
+}
+.hyperlink {
+    color:brown;
+    font-size: larger;
+}
+#info {
+    text-align: center;
+}
+h4 {
+    text-align: center;
+}
+address {
+    margin-bottom: 100px;
+}
+
+caption {
+    font-size: large;
+    padding-bottom: 10px;
+}
+table, th, td {
+    border: 2px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    padding: 2px 6px 2px 6px;
+}         
+th, td {
+    width: 150px;
+    padding: 0;
+}
+th {
+    text-align: center;
+}
+.aboutMe {
+    background-color:cornsilk;
+    margin-left: 30px;
+}
+video {
+    display: block;
+    margin: 0 auto;
+}
+li {
+    padding-bottom: 5px;
+}
+
+.myDream {
+    background-color: blanchedalmond;
+    margin-left: 30px;
+}
+audio {
+    display: block;
+    margin: 0 auto;
+}
+label {
+    display: inline-block;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
